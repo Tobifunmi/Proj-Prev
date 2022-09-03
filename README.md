@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Tobifunmi/Proj-Prev)
-- Live Site URL: [Add live site URL here]https://product-preview-ft.netlify.app/)
+- Solution URL: [Solution URL here](https://github.com/Tobifunmi/Proj-Prev)
+- Live Site URL: [Live site URL here](https://product-preview-ft.netlify.app/)
 
 ## My process
 - Similar to previous ones, make the HTML, including semantics, then do the CSS
@@ -47,6 +47,6 @@ The number with a line-through isn't exactly the way it is in the example image,
 
 ## Author
 
-- Website - [Add your name here](https://www.linkedin.com/in/oluwatobifunmi-olaniran-38023a1b7/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Tobifunmi)
-- Twitter - [@yourusername](https://www.twitter.com/Tobifunmi_)
+- Website - [LinkedIn](https://www.linkedin.com/in/oluwatobifunmi-olaniran-38023a1b7/)
+- Frontend Mentor - [@tobifunmi](https://www.frontendmentor.io/profile/Tobifunmi)
+- Twitter - [@tobifunmi_](https://www.twitter.com/Tobifunmi_)
